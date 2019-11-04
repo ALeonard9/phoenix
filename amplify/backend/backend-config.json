@@ -1,0 +1,9 @@
+{
+	"auth": {
+		"phoenix32cb772d": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	}
+}

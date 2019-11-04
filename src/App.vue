@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <Navbar/>
+    <amplify-authenticator></amplify-authenticator>
     <Home msg="Other stuffs."/>
 
   </div>
@@ -9,6 +10,10 @@
 <script>
 import Home from './components/Home.vue'
 import Navbar from './components/Navbar.vue'
+// const authConfig = {
+//   msg: 'You are currently signed in.', // type: string, default: null
+//   signOutButton: 'Sign Out', // type: string, default: 'Sign Out', required: false
+// }
 
 export default {
   name: 'app',

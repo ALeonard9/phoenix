@@ -1,0 +1,19 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-phoenix-dev-91415-authRole",
+            "UnauthRoleArn": "arn:aws:iam::371624369200:role/amplify-phoenix-dev-91415-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::371624369200:role/amplify-phoenix-dev-91415-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "amplify-phoenix-dev-91415-deployment",
+            "UnauthRoleName": "amplify-phoenix-dev-91415-unauthRole",
+            "StackName": "amplify-phoenix-dev-91415",
+            "StackId": "arn:aws:cloudformation:us-east-2:371624369200:stack/amplify-phoenix-dev-91415/38330610-fe44-11e9-a411-0608930970a0"
+        },
+        "categories": {
+            "auth": {
+                "phoenix32cb772d": {}
+            }
+        }
+    }
+}
